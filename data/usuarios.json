@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "nome": "Ana",
+    "idade": 18,
+    "email": "ana@email.com",
+    "senha": "1234",
+    "cursos_concluidos": []
+  },
+  {
+    "id": "2",
+    "nome": "Jo\u00e3o",
+    "idade": 20,
+    "email": "joao@email.com",
+    "senha": "abcd",
+    "cursos_concluidos": []
+  },
+  {
+    "id": "3",
+    "nome": "Clara",
+    "idade": 18,
+    "email": "clara@email.com",
+    "senha": "4321",
+    "cursos_concluidos": []
+  }
+]
